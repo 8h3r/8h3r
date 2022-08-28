@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Athar
+- 👀 I’m interested in software devlopment and graphic designinig.
+- 🌱 I’m currently learning python and java.
+- 📫 Mail: ath.3r9@gmail.com
