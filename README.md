@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Athar
-- 👀 I’m interested in software devlopment and UI/UX.
-- 🌱 I’m currently learning python full stack.
-- 📫 Mail: ath.3r9@gmail.com
+👋 Hi, I’m Ather
+💻 Software Engineer working with PHP, Python, and REST APIs
+⚙️ Interested in backend systems, integrations, automation, and scalable web applications
+🌱 Currently exploring Python backend and AI development.
+📫 Mail: t.ath3r@gmail.com
